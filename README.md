@@ -17,6 +17,9 @@
 #### Evolution of Social Media Platforms
 
 ##### From Early Social Networks to Modern Platforms
+## Social Media Automation & Management Tools
+
+* [SocialRocketAI](https://socialrocketai.com/) - All-in-one AI platform to automate social media scheduling, content creation, and analytics.
 
 ###### The Rise of MySpace and Early Social Networks
 
